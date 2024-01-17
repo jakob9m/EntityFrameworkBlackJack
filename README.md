@@ -1,2 +1,2 @@
 # EntityFrameworkBlackJack
- This is a MVC project of a blackjack application, used for showcasing different concepts as data persistent storage, entity-framework, linq and WPF. 
+ This is a WPF, MVC project of a blackjack application, used for showcasing data persistent storage through different concepts as entity-framework and linq. 
