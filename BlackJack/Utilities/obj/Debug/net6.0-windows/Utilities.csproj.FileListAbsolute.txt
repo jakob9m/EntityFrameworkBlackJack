@@ -1,0 +1,14 @@
+C:\Users\Jakob\source\repos\BlackJack\Utilities\bin\Debug\net6.0-windows\Utilities.deps.json
+C:\Users\Jakob\source\repos\BlackJack\Utilities\bin\Debug\net6.0-windows\Utilities.runtimeconfig.json
+C:\Users\Jakob\source\repos\BlackJack\Utilities\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\Jakob\source\repos\BlackJack\Utilities\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.csproj.AssemblyReference.cache
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.dll
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\refint\Utilities.dll
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.pdb
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\Utilities.genruntimeconfig.cache
+C:\Users\Jakob\source\repos\BlackJack\Utilities\obj\Debug\net6.0-windows\ref\Utilities.dll

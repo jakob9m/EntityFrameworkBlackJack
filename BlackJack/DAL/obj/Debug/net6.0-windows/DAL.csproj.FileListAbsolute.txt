@@ -1,0 +1,14 @@
+C:\Users\Jakob\source\repos\BlackJack\DAL\bin\Debug\net6.0-windows\DAL.deps.json
+C:\Users\Jakob\source\repos\BlackJack\DAL\bin\Debug\net6.0-windows\DAL.runtimeconfig.json
+C:\Users\Jakob\source\repos\BlackJack\DAL\bin\Debug\net6.0-windows\DAL.dll
+C:\Users\Jakob\source\repos\BlackJack\DAL\bin\Debug\net6.0-windows\DAL.pdb
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.csproj.AssemblyReference.cache
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.dll
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\refint\DAL.dll
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.pdb
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\DAL.genruntimeconfig.cache
+C:\Users\Jakob\source\repos\BlackJack\DAL\obj\Debug\net6.0-windows\ref\DAL.dll

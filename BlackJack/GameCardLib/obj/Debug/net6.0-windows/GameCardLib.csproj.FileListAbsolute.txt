@@ -1,0 +1,14 @@
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\bin\Debug\net6.0-windows\GameCardLib.deps.json
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\bin\Debug\net6.0-windows\GameCardLib.runtimeconfig.json
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\bin\Debug\net6.0-windows\GameCardLib.dll
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\bin\Debug\net6.0-windows\GameCardLib.pdb
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.csproj.AssemblyReference.cache
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.dll
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\refint\GameCardLib.dll
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.pdb
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\GameCardLib.genruntimeconfig.cache
+C:\Users\Jakob\source\repos\BlackJack\GameCardLib\obj\Debug\net6.0-windows\ref\GameCardLib.dll

@@ -1,0 +1,60 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="Blackjack.MainWindow"
+        Title="Blackjack" Height="490" Width="1000">
+    <Grid>
+        <!-- Player Area -->
+        <GroupBox x:Name="gBoxPlayer" Header="Player" HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="750" Margin="15,215,0,0">
+            <StackPanel Orientation="Horizontal" x:Name="PlayerArea">
+                <!-- Cards for the player will be added here dynamically -->
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Dealer Area -->
+        <GroupBox Header="Dealer" Height="200" VerticalAlignment="Top" Margin="15,10,0,0" HorizontalAlignment="Left" Width="750">
+            <StackPanel Orientation="Horizontal" x:Name="DealerArea">
+                <!-- Cards for the dealer will be added here dynamically -->
+            </StackPanel>
+        </GroupBox>
+
+        <!-- Buttons -->
+        <Button Content="New Game" x:Name="btnNewGame" HorizontalAlignment="Left" VerticalAlignment="Top" Width="144" Margin="770,21,0,0" Click="BtnNewGame_Click"/>
+        <Button Content="Hit" x:Name="btnHit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="152" Margin="15,420,0,0" Click="BtnHit_Click" IsEnabled="False"/>
+        <Button Content="Stand" x:Name="btnStand" HorizontalAlignment="Left" VerticalAlignment="Top" Width="152" Margin="172,420,0,0" Click="BtnStand_Click" IsEnabled="False"/>
+
+        <!-- Status Label -->
+        <Label x:Name="lblStatus" Content="Welcome to Blackjack!" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="346,417,0,0"/>
+        <GroupBox x:Name="gBoxNewGame" Header="New Game" Margin="0,71,0,120" HorizontalAlignment="Center" Width="236" Foreground="Black" Background="#FF4FCE34" Grid.IsSharedSizeScope="True" Visibility="Collapsed">
+            <Canvas Margin="0,0,-2,0" Height="263">
+                <Button x:Name="btnStartGame" Content="Start" Click="StartButton_Click" Canvas.Top="213.96" HorizontalAlignment="Center" VerticalAlignment="Top" Width="218" Canvas.Left="4" />
+
+                <!-- Number of decks ComboBox -->
+                <ComboBox x:Name="cBoxNoOfDecks" Canvas.Top="187" Width="82" HorizontalAlignment="Center" VerticalAlignment="Top" SelectedIndex="0" Canvas.Left="4">
+                    <ComboBoxItem Content="1" />
+                    <ComboBoxItem Content="2" />
+                    <ComboBoxItem Content="3" />
+                    <ComboBoxItem Content="4" />
+                    <ComboBoxItem Content="5" />
+                    <ComboBoxItem Content="6" />
+                </ComboBox>
+
+                <!-- Number of players ComboBox -->
+                <TextBlock Canvas.Left="107" TextWrapping="Wrap" Text="Number of decks" Canvas.Top="190" Width="109" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <ListBox x:Name="lBoxPlayers" SelectionMode="Multiple" Height="162" Width="226" av:ItemsSource="{av:SampleData ItemCount=5}" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Top="20">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <CheckBox Content="{Binding Name}" />
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Canvas>
+        </GroupBox>
+        <Button x:Name="btnShuffle" Content="Shuffle Deck" HorizontalAlignment="Left" Margin="770,46,0,0" VerticalAlignment="Top" Width="144" Click="btnShuffle_Click"/>
+        <Label x:Name="lblScore" Content="Score List" HorizontalAlignment="Left" Margin="771,71,0,0" VerticalAlignment="Top" Height="114" Width="142"/>
+        <Label x:Name="lblHandValue" Content="Players Hand Value" HorizontalAlignment="Left" Margin="772,225,0,0" VerticalAlignment="Top" Height="167" Width="142"/>
+        <Label x:Name="lblDeck" Content="Deck:" HorizontalAlignment="Left" Margin="772,420,0,0" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="btnData" Content="Data" HorizontalAlignment="Left" Margin="649,423,0,0" VerticalAlignment="Top" Width="116" Click="btnData_Click"/>
+    </Grid>
+</Window>
+
