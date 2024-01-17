@@ -1,2 +1,2 @@
 # EntityFrameworkBlackJack
- This is a WPF, MVC project of a blackjack application, used for showcasing data persistent storage through different concepts as entity-framework and linq. 
+This project presents a WPF-based MVC application of the classic card game, Blackjack. It is designed not just as a game but as a showcase of data persistent storage methodologies, utilizing advanced concepts in Entity Framework (EF) and Language Integrated Query (LINQ). Developed with a keen focus on database integration and manipulation, this application serves as a testament to the power of modern database technologies and their seamless integration with user-centric applications.
